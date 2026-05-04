@@ -1,79 +1,22 @@
-# 🍽️ Restaurant Landing Page Template
+# Premium Restaurant Template
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Accessibility](https://img.shields.io/badge/A11y-Pass-green?style=for-the-badge)
+Plantilla de landing page de alto rendimiento y diseño moderno, optimizada para establecimientos gastronómicos que buscan una presencia web premium.
 
-> **"Donde el sabor se encuentra con el diseño."**
+## 🚀 Overview
+Esta plantilla Next.js está diseñada para maximizar las conversiones mediante una experiencia de usuario impecable, tiempos de carga mínimos y una estética visual que refleja la calidad de un restaurante de alta gama.
 
-Una plantilla de Landing Page para restaurantes diseñada meticulosamente para **convertir visitantes en comensales**. Este proyecto destaca la atención al detalle en la jerarquía visual, la experiencia de usuario (UX) centrada en la "apetencia" y la solidez técnica de una aplicación moderna.
+## ✨ Key Achievements
+- **Conversión & SEO**: Estructura optimizada para motores de búsqueda y llamadas a la acción estratégicas.
+- **Layout Responsivo**: Diseño impecable en todos los dispositivos utilizando Tailwind CSS.
+- **Robustez del Código**: Integración de pruebas unitarias con Vitest para garantizar la fiabilidad técnica.
 
-## 🌟 Highlights Técnicos
+## 🛠️ Technologies
+- TypeScript / Next.js
+- Tailwind CSS
+- Vitest (Testing)
+- Framer Motion
 
-*   **Arquitectura Limpia**: Estructura de carpetas escalable en `src/`, separando lógica, componentes UI y assets.
-*   **Optimización de Imágenes**: Uso de formatos modernos y lazy-loading para garantizar tiempos de carga rápidos, cruciales para la retención de usuarios en móviles (donde ocurre el 80% de las búsquedas de restaurantes).
-*   **Interactividad**: Sistema de reservas simulado y navegación suave (smooth scroll) implementada con React hooks.
-*   **TypeScript Strict Mode**: Código robusto y mantenible, reduciendo deuda técnica futura.
-*   **Accesibilidad (A11y)**: Uso semántico de HTML5 (landmarks, ARIA labels) para asegurar que la web sea navegable por todos los usuarios.
-
-## 🚀 Demo en Vivo
-
-👉 **[Ver Proyecto Desplegado](https://10-restaurant-landing-page.vercel.app/)**
-
-## 📸 Galería
-
-<!-- COMIENZO DE LA GALERÍA -->
-
-<div align="center">
-    <img src="https://via.placeholder.com/800x450?text=Home+Page" alt="Home Page" />
-    <br>
-    <em>Diseño elegante y minimalista</em>
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://via.placeholder.com/400x300?text=Menu+Preview" alt="Menu" />
-    <img src="https://via.placeholder.com/400x300?text=Reservations" alt="Reservations" />
-</div>
-
-<!-- FIN DE LA GALERÍA -->
-
-## 🛠️ Stack
-
-*   **Framework**: React (Vite)
-*   **Lenguaje**: TypeScript
-*   **Estilos**: Tailwind CSS
-*   **Testing**: Vitest (Configurado para pruebas unitarias)
-
-## 🎨 Decisiones de Diseño
-
-*   **Paleta de Colores**: Tonos cálidos y neutros para evocar una atmósfera acogedora y elegante.
-*   **Tipografía**: Combinación de fuentes Serif (títulos) y Sans-Serif (cuerpo) para legibilidad y estilo premium.
-*   **Call to Action (CTA)**: Botones "Reservar Ahora" ubicados estratégicamente para maximizar la conversión.
-
-## 📦 Instalación Local
-
-1.  Clonar repo:
-    ```bash
-    git clone https://github.com/marcosromanv00/10-restaurant-landing-page.git
-    ```
-2.  Instalar dependencias:
-    ```bash
-    npm install
-    ```
-3.  Iniciar servidor:
-    ```bash
-    npm run dev
-    ```
-
-## 🧪 Testing
-
-Este proyecto incluye configuración para tests unitarios. Ejecútalos con:
-```bash
-npm run test
-```
-
----
-Creado por [Marcos Roman](https://github.com/marcosromanv00).
+## 📦 Features
+- Menú digital responsivo.
+- Sistema de reserva integrado.
+- Galería de imágenes optimizada.
